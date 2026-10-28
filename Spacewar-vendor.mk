@@ -818,12 +818,22 @@ PRODUCT_PACKAGES += \
     libaidenoiser \
     libaidenoiserv2 \
     libaoa \
+    libarcsoft_aiscenedetection \
+    libarcsoft_beautyshot \
+    libarcsoft_dark_vision_raw \
     libarcsoft_dualcam_refocus_image \
     libarcsoft_dualcam_refocus_video \
     libarcsoft_hdr_detection \
     libarcsoft_high_dynamic_range \
+    libarcsoft_low_light_hdr \
+    libarcsoft_mf_superresolution \
     libarcsoft_night_video \
+    libarcsoft_portrait_distortion_correction \
+    libarcsoft_portrait_super_night_raw \
     libarcsoft_singlecam_bokeh \
+    libarcsoft_super_night_raw \
+    libarcsoft_superportrait \
+    libarcsoft_watermark \
     libbitmlengine \
     libbitmlenginev2 \
     libcacertclient \
@@ -863,6 +873,7 @@ PRODUCT_PACKAGES += \
     libgdtap \
     libgf_hal \
     libgnsspps \
+    libhdr_stub \
     libhdr_tm \
     libipebpsstriping \
     libipebpsstriping170 \
@@ -880,6 +891,7 @@ PRODUCT_PACKAGES += \
     liblowi_wifihal \
     liblqe \
     libmctfengine_stub \
+    libmfec \
     libmm-hdcpmgr \
     libmmcamera_bestats \
     libmmcamera_cac3 \
@@ -890,6 +902,7 @@ PRODUCT_PACKAGES += \
     libmmcamera_mfnr_t4 \
     libmmcamera_pdpc \
     libmorpho_MotionSensor \
+    libmouth_mask_detection.arcsoft \
     libmpbase \
     libnanopb \
     libnetmgr_common \
